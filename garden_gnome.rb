@@ -4,7 +4,7 @@ class GardenGnome
   def initialize
     @name = "Carl the Crappy"
     @age = 3432
-    @gluten_allergy
+    @gluten_allergy =
   end
   
   def name=(name)
